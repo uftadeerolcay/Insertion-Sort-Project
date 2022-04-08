@@ -6,3 +6,13 @@ Original case: [16,21,11,8,12,22]
             [8,11,12,16,21,22]
 
 Big-O: O(n*log n)
+
+#### Additional Info ####
+#Merge sort algoritması böl ve birleştir mantığına dayanır.
+#Bir problemi küçük parçalara bölüp hepsi teker teker çözülür.
+#En son sonucu oluşturmak için hepsi tekrar birleştirilir.
+#Bölüp birleştirdikten sonra en soldakiler en küçük olacağı için,
+#önce onlar karşılaştırılır ve son listeye eklenir.
+#Bu işlem sırayla devam eder ve bittikten sonra küçükten büyüğe
+#sıralanmış olur.
+##########################
